@@ -1,0 +1,9 @@
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\obj\Debug\GetApiFromPetShop.csprojAssemblyReference.cache
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\obj\Debug\GetApiFromPetShop.csproj.CoreCompileInputs.cache
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\bin\Debug\GetApiFromPetShop.exe.config
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\bin\Debug\GetApiFromPetShop.exe
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\bin\Debug\GetApiFromPetShop.pdb
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\bin\Debug\RestSharp.dll
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\obj\Debug\GetApiFromPetShop.csproj.CopyComplete
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\obj\Debug\GetApiFromPetShop.exe
+D:\Academy\GetApiFromPetShop\GetApiFromPetShop\obj\Debug\GetApiFromPetShop.pdb
